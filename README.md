@@ -5,7 +5,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-informational)
 
 Welcome to the **HTML Series** by Codeboid — a friendly, step-by-step path to mastering the basics of the web.  
-Each tutorial includes copy-paste code, clear explanations, and a tiny project to practice.
+Each tutorial includes code, clear explanations, and a tiny project to practice.
 
 ---
 
