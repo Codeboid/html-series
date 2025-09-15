@@ -10,10 +10,17 @@ Each tutorial includes code, clear explanations, and a tiny project to practice.
 ---
 
 ## What’s inside
-- **01-first-webpage** — Create your first HTML page, learn the structure, add headings, paragraphs, links, and images. Includes a mini project (About Me page).
-- **02-lists-and-tables** — Learn how to use lists (`ul`, `ol`) and tables (`table`, `tr`, `td`) to organize data neatly.
-- **03-links-images-attributes** — A deeper dive into links, images, and essential attributes like `alt`, `target`, and `title`.
-- **04-forms-inputs** — Build a simple form with text fields, checkboxes, and buttons.
+**01-first-webpage**
+  - `index.html` — Your first webpage
+  - `about.html` — Mini project (About Me page)
+
+**02-lists-and-tables**
+  - `01-unordered-ordered.html` — Bullet and numbered lists
+  - `02-nested-lists.html` — Nested lists
+  - `03-description-lists.html` — Description lists
+  - `04-basic-table.html` — Basic table
+  - `05-table-caption.html` — Table with caption
+  - `06-my-weekly-schedule.html` — Mini project
 
 ---
 
@@ -33,7 +40,7 @@ Each tutorial includes code, clear explanations, and a tiny project to practice.
 
 ## Blog Posts
 - [HTML Basics for Beginners: Your First Webpage (HTML Tutorial #1)](https://codeboid.com/html-basics-for-beginners-your-first-webpage)
-- (Links for Tutorial #2, #3, etc. will be added as published)
+- [HTML Basics for Beginners: Lists and Tables (HTML Tutorial #2)](https://codeboid.com/html-basics-for-beginners-lists-and-tables)
 
 ---
 
